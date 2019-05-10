@@ -35,7 +35,7 @@ function INSTALL_gpopsUserInterp(varargin)
     RunSilent('gpopsLagrangeInterpCheck',silentflag)
 
 	% open an example
-    if (~silentflag && exampleflag), OpenThisFile('GUItest_launch'); end
+    if (~silentflag && exampleflag), OpenThisFile('GUIex_launch'); end
 
 	% close this file
     RunSilent('CloseThisFile(mfilename)',silentflag)

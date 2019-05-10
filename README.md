@@ -26,7 +26,7 @@ open GUIex_launch
 ```
 
 ### External Requirements
-This project requires the commercial software GPOPS-II. It can be obtained at [gpops2.com](http://www.gpops2.com/).
+This project requires the commercial software GPOPS-II. It can be obtained at [gpops2.com](http://www.gpops2.com/). The code has been tested with `MATLAB 2019a U1` and output structures from `GPOPS-II V2.4`.
 
 ---
 ### General Information
